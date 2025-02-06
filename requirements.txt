@@ -1,0 +1,25 @@
+# Data Handling & Processing
+numpy
+pandas
+yfinance
+
+# Machine Learning & Statistics
+scikit-learn
+
+# Time Series & Forecasting
+prophet
+
+# Visualization
+plotly
+matplotlib
+mplfinance
+seaborn 
+
+# Technical Analysis
+ta
+
+# Holiday Calendars
+workalendar
+
+# Streamlit
+streamlit
